@@ -13,7 +13,6 @@ To run this notebook, you will need:
 - Python 3.7 or higher
 - PyTorch 1.8 or newer
 - Transformers library by Hugging Face
-- Other dependencies listed in `requirements.txt`
 
 ## Installation
 Clone the repository to your local machine:
