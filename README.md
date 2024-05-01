@@ -18,6 +18,6 @@ To run this notebook, you will need:
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourgithubusername/fine-tuning-llm-lora.git
+git clone https://github.com/Apoorva-Udupa/Fine-Tuning_LLMs_with_LoRA_and_QLoRA.git
 cd fine-tuning-llm-lora
 ```
